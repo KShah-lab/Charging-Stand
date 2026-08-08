@@ -9,7 +9,7 @@
 #### - Keep the design visually appealing  
 #### - Allow the charging puck to slide in and out  
 #### - Ensure the stand is strong enough to hold the watch  
-#### - Keep the model simple and easy to print  
+#### - Keep the model simple and easy to print  
 #### - Minimise filament usage  
 
 ## Initial Research
