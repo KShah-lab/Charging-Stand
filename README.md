@@ -71,5 +71,17 @@
 
 #### This project taught me more about Shapr3D than any previous design I’ve worked on. I learned how to use visualisation, rendering, and projection tools effectively, and I gained confidence in creating functional, printable designs. Future projects will be much faster thanks to the skills developed here.
 
+## Bill of Materials (BOM)
+
+| Item | Details | Quantity | Unit Cost (£) | Total Cost (£) |
+|------|---------|----------|----------------|-----------------|
+| **Bambu Lab Blue PLA** | Total filament used | 12.63 g | £0.03 | £0.38 |
+| **Preparation Time** | 6m 14s | — | — | — |
+| **Model Print Time** | 26m 39s | — | — | — |
+| **Total Time** | 32m 54s | — | — | — |
+
+**Total Cost:** £0.38
+
+
 #### The final design is lightweight, practical, visually clean, and solves the problems I identified with the Galaxy Watch puck. It hides the cable, supports the watch securely, and even doubles as a phone stand — all while using minimal filament.
 
