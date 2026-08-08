@@ -84,6 +84,8 @@
 
 
 #### The final design is lightweight, practical, visually clean, and solves the problems I identified with the Galaxy Watch puck. It hides the cable, supports the watch securely, and even doubles as a phone stand — all while using minimal filament.
+## Images
+
 ![Screenshot 1](Images/Screenshot%202026-08-08%20at%2018.17.07.png)
 
 ![Screenshot 2](Images/Screenshot%202026-08-08%20at%2018.17.13.png)
@@ -91,3 +93,5 @@
 ![Screenshot 3](Images/Screenshot%202026-08-08%20at%2018.17.26.png)
 
 ![Shapr3D Render](Images/Shapr%20Render.png)
+
+![Additional Image](Images/b20d3551-62ec-4d7b-986a-21abd03c9abe.png)
