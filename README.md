@@ -75,12 +75,12 @@
 
 | Item | Details | Quantity | Unit Cost (£) | Total Cost (£) |
 |------|---------|----------|----------------|-----------------|
-| **Bambu Lab Blue PLA** | Total filament used | 12.63 g | £0.03 | £0.38 |
+| **Bambu Lab Blue PLA** | Total filament used | 12.63 g | £0.03 | £0.44 |
 | **Preparation Time** | 6m 14s | — | — | — |
 | **Model Print Time** | 26m 39s | — | — | — |
 | **Total Time** | 32m 54s | — | — | — |
 
-**Total Cost:** £0.38
+**Total Cost:** £0.44
 
 
 #### The final design is lightweight, practical, visually clean, and solves the problems I identified with the Galaxy Watch puck. It hides the cable, supports the watch securely, and even doubles as a phone stand — all while using minimal filament.
